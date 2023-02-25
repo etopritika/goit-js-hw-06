@@ -1,0 +1,12 @@
+.gallery {
+  display: flex;
+}
+
+.img-container {
+  list-style: none;
+  margin-right: 25px;
+}
+
+.img-container:last-child {
+  margin-right: 0;
+}
